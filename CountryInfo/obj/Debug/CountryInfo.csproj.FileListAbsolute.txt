@@ -38,3 +38,9 @@ C:\Users\Hasan\Desktop\CountryInfo\CountryInfo\bin\CountryInfo.dll
 C:\Users\Hasan\Desktop\CountryInfo\CountryInfo\bin\CountryInfo.pdb
 C:\Users\Hasan\Desktop\CountryInfo\CountryInfo\obj\Debug\CountryInfo.dll
 C:\Users\Hasan\Desktop\CountryInfo\CountryInfo\obj\Debug\CountryInfo.pdb
+G:\CountryInfo-master\CountryInfo\bin\CountryInfo.dll.config
+G:\CountryInfo-master\CountryInfo\bin\CountryInfo.dll
+G:\CountryInfo-master\CountryInfo\bin\CountryInfo.pdb
+G:\CountryInfo-master\CountryInfo\obj\Debug\CountryInfo.csprojResolveAssemblyReference.cache
+G:\CountryInfo-master\CountryInfo\obj\Debug\CountryInfo.dll
+G:\CountryInfo-master\CountryInfo\obj\Debug\CountryInfo.pdb
